@@ -47,7 +47,7 @@ def fetch_info():
         print("No issues")
 
 default_args = {
-    "owner": "Janhawi",
+    "owner": "yashwanth",
     "depends_on_past": False,
     "start_date": datetime(2022, 3, 29),
     "retries": 1,
